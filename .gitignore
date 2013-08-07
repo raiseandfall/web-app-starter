@@ -1,0 +1,7 @@
+/.sass-cache/
+/node_modules/
+/tmp/
+/docs/
+.DS_Store
+_SpecRunner.html
+/.grunt/
